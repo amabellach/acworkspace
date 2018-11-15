@@ -5,9 +5,9 @@
         <title>CSS Exercises 1</title>
     </head>
     <body>
-        <h1>Make me red!</h1>
+        <h1>Changes fro GitHub Practice</h1>
 
-        <p>I am a paragraph I should be blue, Helvetica, size 16px.</p>
+        <p>I want to see if these changes will come up</p>
 
         <ul>
             <li>This is an unordered list.</li>
